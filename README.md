@@ -14,3 +14,8 @@ It's ready to use:
 
 browsing to:
 [http://localhost:8888/](http://localhost:8888/)
+
+## Components
+
+- [jQuery](http://jquery.com/)
+- [normalize.css](http://necolas.github.io/normalize.css/)
